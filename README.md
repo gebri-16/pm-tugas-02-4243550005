@@ -32,4 +32,4 @@ saya tidak perlu memakai tanda `!`.
 
 
 ## Pernyataan penggunaan AI
-disini saya di bantu oleh ai (claude) untuk bagian kerangka kode nya, setelahnya saya menjalankan program ini sendiri serta menguji nya dengan beberapa pesan, tapi saya tidak sekedar dibantu untuk kode nya, saya juga mempelajari beberapa tiap bagian kode nya
+disini saya di bantu oleh ai (claude) untuk bagian kerangka kode nya, setelahnya saya menjalankan program ini sendiri serta menguji nya dengan beberapa pesan, tapi saya tidak sekedar dibantu untuk kode nya, saya juga mempelajari beberapa tiap bagian kode nyaa
